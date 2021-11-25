@@ -4,7 +4,7 @@
 
 **Date de réalisation :** Janvier 2019
 
-**Cadre du projet :** Cours "Programmation Orientée Objet " en 2ème année de prépa intégrée à l'ESILV
+**Cadre du projet :** Cours "Programmation Orientée Objet" en 2ème année de prépa intégrée à l'ESILV
 
 **Langage utilisé :** C#
 
