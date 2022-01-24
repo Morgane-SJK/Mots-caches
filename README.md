@@ -32,7 +32,7 @@ La partie est terminée au bout de 6 tours (6 minutes). Le joueur ayant accumul�
 
 Ce programme contient 6 classes : Dé, Dictionnaire, Joueur, Plateau, TableauDés et Program (qui modélise le jeu).
 
-Deux fichiers sont nécessaires au fonctionnement du programme (à placer dans ./bin/debug) :
+Deux fichiers supplémentaires sont nécessaires au fonctionnement du programme (à placer dans ./bin/Debug) :
 
 - Des.txt qui recense les lettres présentes sur chacune des faces de nos 16 dés
 
