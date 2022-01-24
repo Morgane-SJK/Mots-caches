@@ -13,7 +13,7 @@
 Il s’agit d’un jeu de plateau type mot cachés, qui se joue à 2 joueurs, durant un temps limité de 6 minutes. Le plateau (carré) est constitué de 16 dés à 6 faces. Chaque dé possède une lettre différente sur chacune de ses faces. 
 Au début de chaque tour, les dés sont lancés et seule leur face supérieure est visible. Ensuite, le joueur actuel doit saisir les mots qu’il trouve sur le plateau, qui sont formés à partir de lettres adjacentes (horizontalement, verticalement ou en diagonale). 
 
-Par exemple, sur le plateau suivant, le mot ... pourrait être saisi :
+Par exemple, sur le plateau suivant, le mot ROUGE pourrait être saisi :
 
 <p align="center">
   <img src="./images/exemple.png" height="150">
