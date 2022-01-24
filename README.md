@@ -30,7 +30,7 @@ La partie est terminée au bout de 6 tours (6 minutes). Le joueur ayant accumul�
 
 ## Structure des fichiers
 
-Ce programme contient 6 classes : Dé, Dictionnaire, Joueur, Plateau, TableauDés et Program (qui modélise le jeu).
+Le projet comporte 6 classes : Dé, Dictionnaire, Joueur, Plateau, TableauDés et Program (qui modélise le jeu).
 
 Deux fichiers supplémentaires sont nécessaires au fonctionnement du programme (à placer dans ./bin/Debug) :
 
@@ -53,10 +53,10 @@ Si le projet Visual Studio se nomme Mots_caches, il suit donc cette structure :
 │       Dé.cs
 │       Dictionnaire.cs
 │       Joueur.cs
+│       Mots_caches.csproj
 │       Plateau.cs
 │       Program.cs
 │       TableauDés.cs
-│       Mots_caches.csproj
 │
 └───Mots_caches.sln
 ```
